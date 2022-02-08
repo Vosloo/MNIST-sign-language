@@ -6,14 +6,15 @@ Move the project to Docker                                      Done: X
 Use Neptune or some other similar tool                          Done: X
 Add README                                                      Done: X
 Add comments to notebook(s)                                     Done: X
-Add requirements.txt                                            Done: X
+Add requirements.txt                                            Done: V
+Move code snippets to separate python files if necessary        Done: X
 
 
 Requirements:
 1) Obligatory reqs:
  - Dataset needs to consist of min. 1000 photos                 Done: X               
- - Defined (properly) loss function                             Done: X
- - Train, validate and test on different sets                   Done: X
+ - Defined (properly) loss function                             Done: V (probably)
+ - Train, validate and test on different sets                   Done: V
  - Select min. 2 (appropriate) metrics                          Done: X
  - General and specific descriptions (problem, model, etc.)     Done: X
  - Plots (training, validation, metrics, etc.)                  Done: X
