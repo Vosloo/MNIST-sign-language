@@ -1,0 +1,33 @@
+TODOs:
+General cleanup of the code                                     Done: X
+Verify checks in notebook.ipynb                                 Done: X
+Implement GAN for the dataset (probably different notebook)     Done: X
+Move the project to Docker                                      Done: X
+Use Neptune or some other similar tool                          Done: X
+Add README                                                      Done: X
+Add comments to notebook(s)                                     Done: X
+Add requirements.txt                                            Done: X
+
+
+Requirements:
+1) Obligatory reqs:
+ - Dataset needs to consist of min. 1000 photos                 Done: X               
+ - Defined (properly) loss function                             Done: X
+ - Train, validate and test on different sets                   Done: X
+ - Select min. 2 (appropriate) metrics                          Done: X
+ - General and specific descriptions (problem, model, etc.)     Done: X
+ - Plots (training, validation, metrics, etc.)                  Done: X
+ - Training and interference time                               Done: X
+
+2) Optional reqs:
+ - Testing few optimizers                                   (+1 point)
+ - Learning rate estimation                                 (+1 point)
+ - Overfitting some examples from training set              (+1 point)
+ - Testing various loss functions                           (+1 point)
+ - README / instruction how to run the project and docker   (+1 point)
+
+
+Points:
+ - Classification and object det.   (+1 point)
+ - GAN                              (+5 points)
+ - Own model architecture           (+2 points)
