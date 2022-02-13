@@ -2,8 +2,11 @@
 
 <h2>About</h2>
 
-The project is a POC for a sign language (american) recognition system without two signs for "J" and "Z" as they require a motion which could't be shown by a simple image.
+The project is a POC for a sign language (ASL) recognition system without two signs for "J" and "Z" as they require a motion which could't be shown by a simple image.
 The dataset can be found  on [Kaggle](https://www.kaggle.com/datamunge/sign-language-mnist).
+
+ASL alphabet:
+<center><img src="images/american_sign_language.png" alt="Alphabet" width="800"/></center>
 
 <h2>Results</h2>
 
@@ -20,7 +23,7 @@ The second [generator](src/generator.ipynb) notebook contains models responsible
 
 Both of these models were trained for about 50 epochs and although far from perfect, they were able to generate images resembling the original data. The progress of the generator and the quality of generated images are shown on the below gif.
 
-<center><img src="images/dcgan.gif" alt="Confusion matrix" width="500"/></center>
+<center><img src="images/dcgan.gif" alt="Generation progress" width="500"/></center>
 
 ---
 
