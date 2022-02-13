@@ -1,12 +1,12 @@
 TODOs:
-General cleanup of the code                                     Done: X
-Verify checks in notebook.ipynb                                 Done: X
-Add saving of the model                                         Done: X
-Implement GAN for the dataset (probably different notebook)     Done: X
+General cleanup of the code                                     Done: V
+Verify checks in notebook.ipynb                                 Done: V
+Add saving of the model                                         Done: V
+Implement GAN for the dataset (probably different notebook)     Done: V
 Move the project to Docker                                      Done: X
 Use Neptune or some other similar tool                          Done: X
 Add README                                                      Done: X
-Add comments to notebook(s)                                     Done: X
+Add comments to notebook(s)                                     Done: V
 Add requirements.txt                                            Done: V
 Move code snippets to separate python files if necessary        Done: X
 
@@ -14,12 +14,12 @@ Move code snippets to separate python files if necessary        Done: X
 Requirements:
 1) Obligatory reqs:
  - Dataset needs to consist of min. 1000 photos                 Done: V               
- - Defined (properly) loss function                             Done: V (probably)
+ - Defined (properly) loss function                             Done: V
  - Train, validate and test on different sets                   Done: V
- - Select min. 2 (appropriate) metrics                          Done: X
- - General and specific descriptions (problem, model, etc.)     Done: X
- - Plots (training, validation, metrics, etc.)                  Done: X
- - Training and interference time                               Done: X
+ - Select min. 2 (appropriate) metrics                          Done: V
+ - General and specific descriptions (problem, model, etc.)     Done: V
+ - Plots (training, validation, metrics, etc.)                  Done: V
+ - Training and interference time                               Done: V
 
 2) Optional reqs:
  - Testing few optimizers                                   (+1 point)
@@ -27,6 +27,8 @@ Requirements:
  - Overfitting some examples from training set              (+1 point)
  - Testing various loss functions                           (+1 point)
  - README / instruction how to run the project and docker   (+1 point)
+ - Move the project to Docker                               (+1 point)
+ - Use Neptune or some other similar tool                   (+1 point)
 
 
 Points:
