@@ -2,7 +2,10 @@ __pycache__/*
 .vscode/*
 
 data/
-checkpoints/
+clf_checkpoints/
+gan_checkpoints/
 
 test.py
 *.zip
+*.png
+*.gif

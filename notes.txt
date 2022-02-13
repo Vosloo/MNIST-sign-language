@@ -1,7 +1,7 @@
 TODOs:
 General cleanup of the code                                     Done: X
 Verify checks in notebook.ipynb                                 Done: X
-Add saving of the model                                         Done: X
+Add saving of the model                                         Done: V
 Implement GAN for the dataset (probably different notebook)     Done: X
 Move the project to Docker                                      Done: X
 Use Neptune or some other similar tool                          Done: X
