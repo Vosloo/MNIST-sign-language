@@ -8,4 +8,4 @@ gan_checkpoints/
 test.py
 *.zip
 *.png
-*.gif
+!confusion_matrix.png
