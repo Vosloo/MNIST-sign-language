@@ -3,12 +3,12 @@ General cleanup of the code                                     Done: V
 Verify checks in notebook.ipynb                                 Done: V
 Add saving of the model                                         Done: V
 Implement GAN for the dataset (probably different notebook)     Done: V
-Move the project to Docker                                      Done: X
-Use Neptune or some other similar tool                          Done: X
-Add README                                                      Done: X
+Move the project to Docker                                      Done: V
+Use Neptune or some other similar tool                          Done: V
+Add README                                                      Done: V
 Add comments to notebook(s)                                     Done: V
 Add requirements.txt                                            Done: V
-Move code snippets to separate python files if necessary        Done: X
+Move code snippets to separate python files if necessary        Done: V
 
 
 Requirements:
