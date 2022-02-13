@@ -38,4 +38,5 @@ There are to ways to run the notebooks.
 
 2. Run the docker image.:
 
-    TODO: ...
+    Build: From the root directory run `docker build -t [image_name] .` (set image_name to any name you want).<Br>
+    Run: Then run `docker run --gpus all [image_name] bash -c "python src/classification.py"` if your docker doesn't support gpu run `docker run [image_name] bash -c "python src/classification.py"` (image_name same as set during build process)
