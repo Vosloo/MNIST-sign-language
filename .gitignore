@@ -7,5 +7,5 @@ gan_checkpoints/
 
 test.py
 *.zip
-*.png
-*.gif
+image_at_epoch*.png
+!confusion_matrix.png
