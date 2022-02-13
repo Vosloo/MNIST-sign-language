@@ -1,5 +1,6 @@
-__pycache__/*
-.vscode/*
+__pycache__/
+.vscode/
+.neptune/
 
 clf_checkpoints/
 gan_checkpoints/
